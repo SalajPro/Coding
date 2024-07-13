@@ -5,7 +5,6 @@ def main():
     a=1
     while True:
         pyautogui.click()
-        sl(6)
         print(a)
         a = a+1
 
